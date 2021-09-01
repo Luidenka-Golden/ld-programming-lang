@@ -1,0 +1,3 @@
+PRINT "hi"
+$test
+= "hello"
